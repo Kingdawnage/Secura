@@ -1,0 +1,8 @@
+{
+  "name": "secura",
+  "version-string": "1",
+  "dependencies": [
+    "wxwidgets",
+    "openssl"
+  ]
+}
